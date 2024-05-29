@@ -1,0 +1,3 @@
+[submodule "tool/kerckhoffs"]
+	path = tool/kerckhoffs
+	url = https://github.com/felixgr/kerckhoffs
