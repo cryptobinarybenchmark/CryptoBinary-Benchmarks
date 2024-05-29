@@ -13,3 +13,36 @@
 [submodule "tool/aligot"]
 	path = tool/aligot
 	url = https://github.com/j04n/aligot
+[submodule "library/openssl"]
+	path = library/openssl
+	url = https://github.com/openssl/openssl
+[submodule "library/libgcrypt"]
+	path = library/libgcrypt
+	url = https://github.com/gpg/libgcrypt
+[submodule "library/libsodium"]
+	path = library/libsodium
+	url = https://github.com/jedisct1/libsodium
+[submodule "library/mbedtls"]
+	path = library/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls
+[submodule "library/gnutls"]
+	path = library/gnutls
+	url = https://github.com/gnutls/gnutls
+[submodule "library/bzip2"]
+	path = library/bzip2
+	url = https://github.com/libarchive/bzip2
+[submodule "library/zlib"]
+	path = library/zlib
+	url = https://github.com/madler/zlib
+[submodule "library/FFmpeg"]
+	path = library/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg
+[submodule "library/libgsm"]
+	path = library/libgsm
+	url = https://github.com/timothytylee/libgsm
+[submodule "library/libjpeg"]
+	path = library/libjpeg
+	url = https://github.com/thorfdbg/libjpeg
+[submodule "library/libpng"]
+	path = library/libpng
+	url = https://github.com/pnggroup/libpng
