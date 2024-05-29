@@ -1,3 +1,15 @@
 [submodule "tool/kerckhoffs"]
 	path = tool/kerckhoffs
 	url = https://github.com/felixgr/kerckhoffs
+[submodule "tool/wheres-crypto"]
+	path = tool/wheres-crypto
+	url = https://github.com/wheres-crypto/wheres-crypto
+[submodule "tool/CryptoHunt"]
+	path = tool/CryptoHunt
+	url = https://github.com/s3team/CryptoHunt
+[submodule "tool/CryptoKnight"]
+	path = tool/CryptoKnight
+	url = https://github.com/AbertayMachineLearningGroup/CryptoKnight
+[submodule "tool/aligot"]
+	path = tool/aligot
+	url = https://github.com/j04n/aligot
